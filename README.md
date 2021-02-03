@@ -6,7 +6,7 @@
 <a href="mailto:ankur.kdkvm@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br/>
+</br>
 🎓 I’m a Beginner in Open Source Community Currently pursuing BTech in Electrical and Electronics Engineering at NIT Warangal. </br>
 👨‍💻  I am passionate about Data Structures ,Javascript and React & I enjoy learning new things. Exploring Full Stack </br>
 
