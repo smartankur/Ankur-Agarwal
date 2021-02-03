@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/ankur-agarwal-nitw/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+<a href="https://stackoverflow.com/users/story/9947147">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg"  />
+</a>
 <a href="mailto:ankur.kdkvm@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
